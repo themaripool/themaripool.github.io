@@ -91380,7 +91380,7 @@ $0:function(){var s,r=new U.CI(),q=this.a,p=q.d.a.a
 q=q.e.a.a
 $.aFa=p
 $.aJ0=q
-q=$.ep=new E.afd("ws://192.168.0.3",9001,"SmartAlarm",0,new L.hH(C.b8,C.aO,C.cD))
+q=$.ep=new E.afd("wss://192.168.0.3",9001,"SmartAlarm",0,new L.hH(C.b8,C.aO,C.cD))
 if(p==="marcos")$.zK="pacteste"
 else if(p==="teste")$.zK="teste1"
 $.a4p=$.a4o=this.b
